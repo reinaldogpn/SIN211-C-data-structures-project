@@ -16,14 +16,12 @@ de dados pilha e fila (dinâmicas).
 O jogador irá iniciar cada fase possuindo três chances de vencer, caso não consiga atingir o objetivo, o
 jogador perde e o jogo termina (game over). Caso o jogador alcance o objetivo em todas as três fases, o
 jogador vence e o jogo termina. Boa sorte!
+______________________________________________________________________________________________________________________
 
----------------------------------------------------------------------------------------------------------------------
-
-* AUTORES: 
-	- Fabio Henrique Sena Bastos (Turma: 1 | Matrícula: 7554)
-	- Luiz Benedito Alves Neto(Turma: 1 | Matrícula: 7557)
-	- Reinaldo Gonçalves Pereira Neto (Turma: 2 | Matrícula: 7627)
-
+	* AUTORES: 
+		- Fabio Henrique Sena Bastos (Turma: 1 | Matrícula: 7554)
+		- Luiz Benedito Alves Neto (Turma: 1 | Matrícula: 7557)
+		- Reinaldo Gonçalves Pereira Neto (Turma: 2 | Matrícula: 7627)
 ______________________________________________________________________________________________________________________
 
     Exemplo de combinação de comandos:
