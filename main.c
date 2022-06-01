@@ -6,7 +6,7 @@ int main()
 {
     char Tabuleiro[8][8];
     char sentido = 'd'; // sent d = (>) sent b = (V), sent c = (^), sent e = (<)
-    int opcao = 5, tentativas = 3, aux, fase = 3, aux2 = 0;
+    int opcao = 5, tentativas = 3, aux, fase = 1, aux2 = 0;
 
     // Inicialização da estrutura fila
     ComandoFila F;
